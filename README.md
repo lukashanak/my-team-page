@@ -52,7 +52,7 @@ You can check out user stories on this page [challenge](https://i.imgur.com/bSni
 
 ## Acknowledgements
 
-- [@benAbraham](https://{twitter.com/benAbraham}) for feedback for giving me feedback on my projects
+- [Daneil Srb](https://twitter.com/benAbraham) for feedback for giving me feedback on my projects
 
 
 <!-- This section should list any articles or add-ons/plugins that helps you to complete the project. This is optional but it will help you in the future. For exmpale -->

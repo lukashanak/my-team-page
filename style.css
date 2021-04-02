@@ -45,6 +45,10 @@ main {
   margin-right: 5.1%;
 }
 
+.wrapper {
+  padding-bottom: 80px;
+}
+
 @media screen and (min-width: 770px) {
   header {
     padding-left: 10%;
@@ -109,7 +113,7 @@ main {
 
 @media screen and (min-width: 1200px) {
   .description {
-    width: 35%;
+    width: 40%;
   }
 }
 
@@ -117,7 +121,65 @@ main {
 2. CARD COMPONENTS
 =======*/
 
+.cards {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
 
+.card-item {
+  width: 90%;
+  position: relative
+}
+
+.card-img {
+  max-width: 100%;
+  margin-bottom: 10px;
+}
+
+.card-name {
+  font-size: 14px;
+  font-family: 'Poppins', sans-serif;
+  font-weight: 600;
+}
+
+.card-job-title {
+  font-family: 'PT Serif', serif;
+  font-weight: 400;
+  font-size: 10px;
+  writing-mode: vertical-rl; 
+  position: absolute;
+  right: -10%;
+  top: 0%;
+}
+
+@media screen and (min-width: 374px) {
+  .card-item {
+  width: 40%;
+}
+.card-item:nth-child(even) {
+  margin-top: 50px;
+}
+}
+
+@media screen and (min-width: 770px) {
+  .card-item {
+  width: 40%;
+  }
+  .card-name {
+    font-size: 18px;
+  }
+  .card-job-title {
+    font-size: 12px;
+  }
+  }
+
+
+@media screen and (min-width: 1200px) {
+  .card-item {
+  width: 28%;
+  }
+}
 
 /* =====
 3. FOOTER
@@ -129,6 +191,12 @@ footer {
   text-align: center;
   font-size: 0.875em;
   font-style: 'Montserrat';
-  font-weight: 700;
-  color: #BDBDBD;
+  font-weight: 500;
+  color: #A9A9A9;
+  padding-bottom: 20px;
+}
+
+footer a {
+  color: #A9A9A9;
+  font-weight: bold;
 }

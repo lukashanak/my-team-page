@@ -52,7 +52,7 @@ You can check out user stories on this page https://devchallenges.io/challenges/
 
 ## Acknowledgements
 
-- Thanks [Daneil Srb](https://twitter.com/benAbraham) for feedback for giving me feedback on my previous project. It's really helpfull to have somebody like that. You can also check out his https://coreskill.tech/ if you are from the Czech Republic.
+- Thanks [Daneil Srb](https://twitter.com/benAbraham) for feedback for giving me feedback on my previous project. I applied his feedback in this project. You can also check out his https://coreskill.tech/ if you are from the Czech Republic.
 - https://www.vzhurudolu.cz/prirucka/jednotky
 
 

@@ -60,6 +60,6 @@ You can check out user stories on this page [challenge](https://i.imgur.com/bSni
 
 ## Contact
 
-- [Github](https://github.com/lukashanak)
+- Github [@lukashanak](https://github.com/lukashanak)
 - Twitter [@hanakl22](https://github.com/lukashanak)
 - Discord: Shamir#4318

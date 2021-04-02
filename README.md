@@ -52,7 +52,7 @@ You can check out user stories on this page [challenge](https://i.imgur.com/bSni
 
 ## Acknowledgements
 
-- [Daneil Srb](https://twitter.com/benAbraham) for feedback for giving me feedback on my previous project. It's really helpfull to have somebody like that.
+- [Daneil Srb](https://twitter.com/benAbraham) for feedback for giving me feedback on my previous project. It's really helpfull to have somebody like that. You can also check out his https://coreskill.tech/ if you are from the Czech Republic.
 
 
 <!-- This section should list any articles or add-ons/plugins that helps you to complete the project. This is optional but it will help you in the future. For exmpale -->

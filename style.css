@@ -49,7 +49,7 @@ main {
   padding-bottom: 80px;
 }
 
-@media screen and (min-width: 770px) {
+@media screen and (min-width: 48.125em) { /* 770/16 */
   header {
     padding-left: 10%;
     padding-right: 10%;
@@ -62,7 +62,7 @@ main {
   }
 }
 
-@media screen and (min-width: 1200px) {
+@media screen and (min-width: 75em) { /* 1200/16 */
   header {
     padding-left: 16.6%;
     padding-right: 16.6%;
@@ -82,40 +82,34 @@ main {
 
 .title {
   margin-bottom: 38px;
-  font-size: 36px;
+  font-size: 2.25rem; /* 36 / 16 */
   font-family: 'PT Serif', serif;
 }
 
 .sub-title {
   margin-bottom: 10px;
-  font-size: 18px;
+  font-size: 1.125rem; /* 18 / 16 */
   font-family: 'Poppins', sans-serif;
 }
 
 .normal-text {
   font-family: 'Poppins', sans-serif;
-  font-size: 14px;
+  font-size: 0.875rem; /* 14 / 16 */
 }
 
-@media screen and (min-width: 770px) {
+@media screen and (min-width: 48.125em) { /* 770/16 */
   header {
     display: inline-flex;
     justify-content: space-between;
-  } 
+  }
   .description {
     width: 40%;
   }
   .normal-text {
-    font-size: 18px;
+    font-size: 1.125rem; /* 18 / 16 */
   }
 }
 
-
-@media screen and (min-width: 1200px) {
-  .description {
-    width: 40%;
-  }
-}
 
 /* =====
 2. CARD COMPONENTS
@@ -138,22 +132,25 @@ main {
 }
 
 .card-name {
-  font-size: 14px;
+  font-size: 0.875rem; /* 14 / 16 */
   font-family: 'Poppins', sans-serif;
   font-weight: 600;
+  line-height: 1.31rem; /* 21 / 16 */
 }
 
 .card-job-title {
+  text-transform: uppercase;
   font-family: 'PT Serif', serif;
   font-weight: 400;
-  font-size: 10px;
-  writing-mode: vertical-rl; 
+  line-height: 13.25px;
+  font-size: 0.625rem; /* 10 / 16 */
+  writing-mode: vertical-rl;
   position: absolute;
   right: -10%;
   top: 0%;
 }
 
-@media screen and (min-width: 374px) {
+@media screen and (min-width: 23.375em) { /* 374 / 16 */
   .card-item {
   width: 40%;
 }
@@ -162,20 +159,22 @@ main {
 }
 }
 
-@media screen and (min-width: 770px) {
+@media screen and (min-width: 48.125em) {  /* 770 / 16 */
   .card-item {
   width: 40%;
   }
   .card-name {
-    font-size: 18px;
+    font-size: 1.125rem; /* 18 / 16 */
+    line-height: 1.69; /* 27 / 16 */
   }
   .card-job-title {
-    font-size: 12px;
+    font-size: 0.75rem; /* 12 / 16 */
+    line-height: 1rem;
   }
   }
 
 
-@media screen and (min-width: 1200px) {
+@media screen and (min-width: 75em) { /* 1200/16 */
   .card-item {
   width: 28%;
   }
@@ -184,6 +183,7 @@ main {
 /* =====
 3. FOOTER
 =======*/
+
 footer {
   margin-top: auto;
   display: block;

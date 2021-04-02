@@ -48,7 +48,7 @@
 
 <!-- List the features of your application or follow the template. Don't share the figma file here :) -->
 
-You can check out user stories on this page [challenge](https://i.imgur.com/bSniqpB.png) 
+You can check out user stories on this page [challenge](https://devchallenges.io/challenges/hhmesazsqgKXrTkYkt0U) 
 
 ## Acknowledgements
 

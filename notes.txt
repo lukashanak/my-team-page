@@ -1,0 +1,15 @@
+
+.wrapper
+  - header
+    -- h2 .title
+    -- .description
+        --- .sub-title
+        --- .normal-text
+  - main
+    -- .cards
+      --- 8x .card-item
+        ---- img .card-img
+        ---- span .card-name
+        ---- span .card-job-title
+
+footer

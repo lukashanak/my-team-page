@@ -1,0 +1,6 @@
+
+- dat vsude spravnou velikost textu
+- poresit zmenu font-size u media queries
+- dat vsude spravnou font-family
+- poresit spravnej layout
+- poresit spravnej margin
